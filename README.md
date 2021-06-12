@@ -1,6 +1,8 @@
-# Codecademy Portfolio Project Mixed Messages
+# **Codecademy Portfolio Project Mixed Messages**
 
-I dont know, why I created such big list of Words, I just kinda liked the idea of having **many many ** options XD
+This is a portfolio project to showcase intermediate Javascript knowledge.
 
-If there were more data arrays to make it more complex messages, it would make a lot more sense to create an object with nested arrays and
-then loop over those in order to select a random element of each. 
+It is a Node.js console app that generates random messages each time a user runs the program and the first time, that I versioned a project with Git/GitHub.
+
+**Usage**
+Simply type node *script.js* into the console and observe the output. 
